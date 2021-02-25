@@ -2,4 +2,4 @@
 
 [Only Farts](onlyfarts.netlify.app)
 
-onlyfarts.netlify.app
+https://onlyfarts.netlify.app
